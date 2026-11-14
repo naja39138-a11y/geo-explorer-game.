@@ -1,2 +1,2 @@
-# geo-explorer-game.
+#geo-explorer-game.
 لعبة تفاعلية في الجغرافيا المكانية
